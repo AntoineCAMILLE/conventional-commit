@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/antoineCAMILLE/conventional-commit/compare/v1.1.0...v2.0.0) (2023-11-03)
+
+
+### Features
+
+* rm toto ([e78a994](https://github.com/antoineCAMILLE/conventional-commit/commit/e78a994ad000c78bbe855983d358632b6193b5c2))
+
+
+### BREAKING CHANGES
+
+* remove toto
+
 # [1.1.0](https://github.com/antoineCAMILLE/conventional-commit/compare/v1.0.1...v1.1.0) (2023-11-03)
 
 
