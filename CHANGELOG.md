@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/antoineCAMILLE/conventional-commit/compare/v1.0.0...v1.0.1) (2023-11-03)
+
+
+### Bug Fixes
+
+* create toto ([401f8e8](https://github.com/antoineCAMILLE/conventional-commit/commit/401f8e8390ba8e27281de5d751c7356446c97cac))
+
 # 1.0.0 (2023-11-03)
 
 
